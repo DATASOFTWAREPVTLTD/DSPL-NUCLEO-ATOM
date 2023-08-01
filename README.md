@@ -1,5 +1,5 @@
 # DSPL-NUCLEO-ATOM
-SPL-NucleoAtom: Empowering Data Software with Nucleoous Atom  Welcome to DSPL-NucleoAtom, a groundbreaking data software project powered by the innovative DSPL technology and its cutting-edge Nucleoous Atom
+DSPL-NucleoAtom: Empowering Data Software with Nucleoous Atom  Welcome to DSPL-NucleoAtom, a groundbreaking data software project powered by the innovative DSPL technology and its cutting-edge Nucleoous Atom
 
 At DSPL-NucleoAtom, we recognize the paramount importance of data-driven insights in today's ever-evolving technological landscape. Our mission is to equip data enthusiasts with a robust, scalable, and versatile data software solution that maximizes the potential of their data assets. Through a seamless integration of DSPL technology and the Nucleoous Atom, we bring forth an unparalleled experience that redefines how organizations leverage their data for valuable business outcomes.
 
